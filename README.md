@@ -57,10 +57,6 @@ Application web permettant de découvrir les meilleurs films grâce à une inter
 
 Ce projet aide à choisir les meilleures actions à acheter avec un budget de 500€.
 
-## 📝 Derniers articles de blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connectons-nous !
 
