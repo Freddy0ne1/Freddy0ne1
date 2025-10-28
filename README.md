@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Passionné par le développement et les technologies, je suis Développeur Application Python en devenir. J'aimerais créer des solutions innovantes et contribuer à des projets open source.
+Passionné par le développement et les technologies, je suis Développeur Application Python. J'aimerais créer des solutions innovantes et contribuer à des projets open source.
 
 - 🔭 Je suis actuellement en formation chez **OpenClassRooms**
 - 🌱 J'apprends en ce moment **[Django/Django REST]**
