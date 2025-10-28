@@ -1,4 +1,5 @@
-# 👋 Bonjour, je suis Freddy KHUTI-DI-KHUTI
+# Freddy KHUTI-DI-KHUTI
+Développeur Application Python
 
 ## 🚀 À propos de moi
 
