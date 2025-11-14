@@ -58,6 +58,12 @@ Application web permettant de découvrir les meilleurs films grâce à une inter
 
 Ce projet aide à choisir les meilleures actions à acheter avec un budget de 500€.
 
+### [📚 LITReview](https://github.com/Freddy0ne1/LITReview)
+
+Projet sur un site de critique de livres et d'articles.
+
+
+
 
 ## 🤝 Connectons-nous !
 
