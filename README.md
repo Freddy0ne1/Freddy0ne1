@@ -60,7 +60,7 @@ Ce projet aide à choisir les meilleures actions à acheter avec un budget de 50
 
 ### [📚 LITReview](https://github.com/Freddy0ne1/LITReview)
 
-Projet sur un site de critique de livres et d'articles.
+LITReview est une application web communautaire permettant aux utilisateurs de demander et publier des critiques de livres et d'articles.
 
 
 
