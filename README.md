@@ -29,8 +29,8 @@ Trois applications que j'ai conçues, développées et mises en ligne. Leur code
       <p><sub>Wagtail 7 · Django 6 · PostgreSQL · Docker</sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://easyparafe.fr"><img src="assets/easyparafe.webp" alt="Capture d'écran d'EasyParafe"></a>
-      <h3><a href="https://easyparafe.fr">EasyParafe</a></h3>
+      <a href="https://paraphons.fr"><img src="assets/paraphons.webp" alt="Capture d'écran de Paraphons"></a>
+      <h3><a href="https://paraphons.fr">Paraphons</a></h3>
       <p>Signature électronique de PDF à distance, conforme eIDAS, avec dossier de preuve horodaté.</p>
       <p><sub>Django 5 · pyHanko (PAdES, RFC 3161) · PostgreSQL</sub></p>
     </td>
