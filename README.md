@@ -26,7 +26,7 @@ Trois applications que j'ai conçues, développées et mises en ligne. Leur code
       <a href="https://lemassage82.fr"><img src="assets/lemassage82.webp" alt="Capture d'écran de LeMassage82"></a>
       <h3><a href="https://lemassage82.fr">LeMassage82</a></h3>
       <p>Site vitrine et réservation en ligne pour un salon de massage bien-être, avec un back-office Wagtail.</p>
-      <p><sub>Wagtail 7 · Django 6 · PostgreSQL · Docker</sub></p>
+      <p><sub>WordPress · Wagtail 7 · Django 6 · SQLite · MariaDB</sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://paraphons.fr"><img src="assets/paraphons.webp" alt="Capture d'écran de Paraphons"></a>
