@@ -19,8 +19,9 @@ Trois applications que j'ai conçues, développées et mises en ligne. Leur code
     <td width="33%" valign="top">
       <a href="https://toppopote.fr"><img src="assets/toppopote.webp" alt="Capture d'écran de TopPopote"></a>
       <h3><a href="https://toppopote.fr">TopPopote</a></h3>
-      <p>Application de cuisine : recettes, planning de repas et liste de courses. Import et structuration des recettes par IA.</p>
-      <p><sub>Django 6 · PostgreSQL · Gemini · Stripe</sub></p>
+      <p>Application de cuisine, sur le web et sur Android : recettes, planning de repas et liste de courses. Import et structuration des recettes par IA.</p>
+      <p><sub>Django 6 · PostgreSQL · Gemini · Stripe · Kotlin</sub></p>
+      <p><a href="https://play.google.com/store/apps/details?id=fr.toppopote.app">Application Android sur Google Play →</a></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://lemassage82.fr"><img src="assets/lemassage82.webp" alt="Capture d'écran de LeMassage82"></a>
